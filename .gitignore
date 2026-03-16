@@ -28,3 +28,5 @@ coverage
 *.tsbuildinfo
 
 .env
+.env.prod
+.env.example

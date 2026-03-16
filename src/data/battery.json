@@ -1,5 +1,5 @@
 
-{
+[
     {
         "academyId": 30006,
         "batteryLevel": 0.68,
@@ -18234,6 +18234,6 @@
         "batteryLevel": 0.27,
         "employeeId": "T1001800",
         "serialNumber": "1805C67HD02384",
-        "timestamp": "2019-05-17T08:28:01.658+01:00",
+        "timestamp": "2019-05-17T08:28:01.658+01:00"
     }
-}
+]

@@ -6,8 +6,13 @@ const router = createRouter({
   routes: [
     {
       path: '/',
-      name: 'Fe Asignment App',
+      name: 'Dashboard',
       component: () => import('../views/Home.vue')
+    },
+    {
+      path: '/school/:academyId',
+      name: 'SchoolDetail',
+      component: () => import('../views/SchoolDetail.vue')
     }
   ]
 });
